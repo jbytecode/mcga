@@ -11,7 +11,7 @@ enum ChromosomeType
 {
 	    ONE_POINT_CROSS_OVER,
 	    TWO_POINT_CROSS_OVER,
-		UNIFORM_CROSS_OVER
+	    UNIFORM_CROSS_OVER
 };
 
 
