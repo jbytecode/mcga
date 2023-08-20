@@ -2,10 +2,10 @@ citHeader("To cite mcga in publications use:")
 
 
 
-citEntry(
-  entry = "Article",
+bibEntry(
+  bibtype = "Article",
   title        = "Machine Coded Genetic Algorithms For Real Parameter Optimization Problems",
-  author       = personList(as.person("Mehmet Hakan Satman")),
+  author       = c(as.person("Mehmet Hakan Satman")),
   journal      = "Gazi University Journal of Science",
   year         = "2013",
   volume       = "26",
@@ -18,7 +18,7 @@ citEntry(
   paste("Mehmet Hakan Satman (2013).",
         "Machine Coded Genetic Algorithms For Real Parameter Optimization Problems",
         "Gazi University Journal of Science, 26(1), 85-95.",
-        "URL http://gujs.gazi.edu.tr/article/view/1060000982")
+        "URL https://dergipark.org.tr/en/pub/gujs/issue/7426/97486")
 )
 
 
