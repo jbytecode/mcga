@@ -7,16 +7,7 @@ Machine Coded Genetic Algorithms for Real-valued Optimization Problems
 \description{
 Machine coded genetic algorithm (MCGA) is a fast tool for real-valued optimization problems. It uses the byte representation of variables rather than real-values. It performs the classical crossover operations (uniform) on these byte representations. Mutation operator is also similar to classical mutation operator, which is to say, it changes a randomly selected byte value of a chromosome by +1 or -1 with probability 1/2. In MCGAs there is no need for encoding-decoding process and the classical operators are directly applicable on real-values. It is fast and can handle a wide range of a search space with high precision. Using a 256-unary alphabet is the main disadvantage of this algorithm but a moderate size population is convenient for many problems.
 }
-\details{
-\tabular{ll}{
-Package: \tab mcga\cr
-Type: \tab Package\cr
-Version: \tab 2.0.3\cr
-Date: \tab 2012-01-06\cr
-License: \tab GPL\cr
-LazyLoad: \tab yes\cr
-}
-}
+
 \author{
 Mehmet Hakan Satman
 
