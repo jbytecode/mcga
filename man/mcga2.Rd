@@ -74,7 +74,7 @@ Mehmet Hakan Satman - mhsatman@istanbul.edu.tr
 \references{
 M.H.Satman (2013), Machine Coded Genetic Algorithms for Real Parameter Optimization Problems, Gazi University Journal of Science, Vol 26, No 1, pp. 85-95
 
-Luca Scrucca (2013). GA: A Package for Genetic Algorithms in R. Journal of Statistical Software, 53(4), 1-37. URL \url{http://www.jstatsoft.org/v53/i04/}
+Luca Scrucca (2013). GA: A Package for Genetic Algorithms in R. Journal of Statistical Software, 53(4), 1-37. 
 }
 \seealso{
 GA::ga
