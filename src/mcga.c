@@ -75,7 +75,7 @@ void mcga_dump_chromosome (struct Chromosome *c, int idx)
     {
         Rprintf("%.5f ",c->genes[j]);
     }
-    Rprintf("");
+    Rprintf("%s", "\n");
 }
 
 

@@ -70,7 +70,7 @@ void multi_mcga_dump_chromosome (struct MultiChromosome *c, int idx)
     {
         Rprintf("%.5f ",c->genes[j]);
     }
-    Rprintf("");
+    Rprintf("%s", "\n");
 }
 
 
