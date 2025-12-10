@@ -2,7 +2,7 @@ Package: mcga
 Type: Package
 Title: Machine Coded Genetic Algorithms for Real-Valued Optimization
         Problems
-Version: 3.0.8
+Version: 3.0.9
 Date: 2025-12-10
 Author: Mehmet Hakan Satman [aut, cre]
 Maintainer: Mehmet Hakan Satman <mhsatman@istanbul.edu.tr>
