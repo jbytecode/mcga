@@ -1,2 +1,7 @@
 mcga.Rcheck/
 *.tar.gz
+*.o
+*.so
+*.rds
+..Rcheck/
+
