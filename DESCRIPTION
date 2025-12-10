@@ -2,9 +2,9 @@ Package: mcga
 Type: Package
 Title: Machine Coded Genetic Algorithms for Real-Valued Optimization
         Problems
-Version: 3.0.7
-Date: 2023-11-27
-Author: Mehmet Hakan Satman
+Version: 3.0.8
+Date: 2025-12-10
+Author: Mehmet Hakan Satman [aut, cre]
 Maintainer: Mehmet Hakan Satman <mhsatman@istanbul.edu.tr>
 Description: Machine coded genetic algorithm (MCGA) is a fast tool for
     real-valued optimization problems. It uses the byte
@@ -30,6 +30,11 @@ LinkingTo: Rcpp
 NeedsCompilation: yes
 LazyLoad: yes
 Repository: CRAN
-Date/Publication: 2023-08-20 20:30:12 UTC
-Packaged: 2023-08-20 20:16:47 UTC; jbytecode
+Date/Publication: 2025-12-10 20:30:12 UTC
+Packaged: 2025-12-10 20:16:47 UTC; jbytecode
 RoxygenNote: 5.0.1
+Authors@R: person(given = c("Mehmet", "Hakan"),
+                    family = "Satman",
+                    role = c("aut", "cre"),
+                    email = "mhsatman@istanbul.edu.tr")
+
