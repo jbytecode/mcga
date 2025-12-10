@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <R_ext/PrtUtil.h> /* Rprintf */
+
 
 #define FALSE 0
 #define TRUE 1
